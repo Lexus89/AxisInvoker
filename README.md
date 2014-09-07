@@ -24,7 +24,7 @@ Then run `ant -v` to build it, you can find the compiled archive in `build` dire
    http://192.168.56.103:8080/axis2/services/AxisInvoker/write?path=c:\1.1txt&content=123
    
 
-- info  - Display certain informations, modify as needed
+- info  - Display certain information, modify as needed
 
   http://192.168.56.103:8080/axis2/services/AxisInvoker/info
   
