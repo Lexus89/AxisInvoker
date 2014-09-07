@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export JAVA_HOME="/Application/Binaries/jdk1.6/"
+ant -v
+cp build/AxisInvoker.aar /run/shm/
